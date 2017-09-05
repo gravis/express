@@ -19,6 +19,8 @@ app.listen(3000);
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gravis/express.svg)](https://greenkeeper.io/)
+
     $ npm install express
 
 ## Quick Start
